@@ -1,9 +1,9 @@
 # RealmTutorial
-Updated version of Ray Wenderlich's tutorial for Realm
+Updated version of Ray Wenderlich's Realm tutorial for Swift 1.2
 
 ## License
 
-MELSorting is available under the MIT license.
+RealmTutorial is available under the MIT license.
 
 Copyright © 2015 Mike Leveton
 
